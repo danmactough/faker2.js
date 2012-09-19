@@ -1,9 +1,9 @@
 # Faker.js - generate massive amounts of fake data in the browser and node.js
-<img src = "http://imgur.com/KiinQ.png" border = "0">
 
 Forked from Marak's original due to inactivity in the project (see https://github.com/Marak/Faker.js/issues/25). 
 
-Marak please push your latest to npm and I can stop using this?
+<img src = "http://imgur.com/KiinQ.png" border = "0">
+
 
 ## USAGE
 ### browser -
